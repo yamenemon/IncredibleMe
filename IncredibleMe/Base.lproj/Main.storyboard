@@ -32,7 +32,7 @@
                                         <rect key="frame" x="211" y="221" width="240" height="99"/>
                                         <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="80"/>
                                         <state key="normal" title="20">
-                                            <color key="titleColor" red="0.47935611010000001" green="0.2736448944" blue="0.065209873020000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <color key="titleColor" red="0.99944847820000005" green="0.31470149759999999" blue="0.057557262480000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         </state>
                                     </button>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="plate.png" translatesAutoresizingMaskIntoConstraints="NO" id="6xu-09-V4Q" userLabel="plate2.png">
@@ -46,7 +46,7 @@
                                         <rect key="frame" x="583" y="169" width="240" height="99"/>
                                         <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="80"/>
                                         <state key="normal" title="20">
-                                            <color key="titleColor" red="0.47935611010000001" green="0.2736448944" blue="0.065209873020000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <color key="titleColor" red="0.99944847820000005" green="0.31470149759999999" blue="0.057557262480000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         </state>
                                     </button>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="plate.png" translatesAutoresizingMaskIntoConstraints="NO" id="fjH-To-sJR" userLabel="plate3.png">
@@ -60,7 +60,7 @@
                                         <rect key="frame" x="953" y="226" width="240" height="99"/>
                                         <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="80"/>
                                         <state key="normal" title="20">
-                                            <color key="titleColor" red="0.47935611010000001" green="0.2736448944" blue="0.065209873020000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <color key="titleColor" red="0.99944847820000005" green="0.31470149759999999" blue="0.057557262480000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         </state>
                                     </button>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="plate.png" translatesAutoresizingMaskIntoConstraints="NO" id="Z5s-BH-ZxV" userLabel="plate4.png">
@@ -73,7 +73,7 @@
                                         <rect key="frame" x="1032" y="452" width="240" height="100"/>
                                         <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="80"/>
                                         <state key="normal" title="20">
-                                            <color key="titleColor" red="0.47935611010000001" green="0.2736448944" blue="0.065209873020000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <color key="titleColor" red="0.99944847820000005" green="0.31470149759999999" blue="0.057557262480000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         </state>
                                     </button>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="plate.png" translatesAutoresizingMaskIntoConstraints="NO" id="6MM-b1-y7f" userLabel="plate9.png">
@@ -87,7 +87,7 @@
                                         <rect key="frame" x="556" y="444" width="240" height="99"/>
                                         <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="80"/>
                                         <state key="normal" title="20">
-                                            <color key="titleColor" red="0.47935611010000001" green="0.2736448944" blue="0.065209873020000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <color key="titleColor" red="0.99944847820000005" green="0.31470149759999999" blue="0.057557262480000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         </state>
                                     </button>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="plate.png" translatesAutoresizingMaskIntoConstraints="NO" id="3bO-VP-H2u" userLabel="plate7.png">
@@ -101,7 +101,7 @@
                                         <rect key="frame" x="131" y="600" width="240" height="99"/>
                                         <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="80"/>
                                         <state key="normal" title="20">
-                                            <color key="titleColor" red="0.47935611010000001" green="0.2736448944" blue="0.065209873020000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <color key="titleColor" red="0.99944847820000005" green="0.31470149759999999" blue="0.057557262480000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         </state>
                                     </button>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="plate.png" translatesAutoresizingMaskIntoConstraints="NO" id="Vhe-3h-JgC" userLabel="plate8.png">
@@ -115,7 +115,7 @@
                                         <rect key="frame" x="82" y="392" width="240" height="99"/>
                                         <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="80"/>
                                         <state key="normal" title="20">
-                                            <color key="titleColor" red="0.47935611010000001" green="0.2736448944" blue="0.065209873020000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <color key="titleColor" red="0.99944847820000005" green="0.31470149759999999" blue="0.057557262480000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         </state>
                                     </button>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="plate.png" translatesAutoresizingMaskIntoConstraints="NO" id="vYN-XB-EMu" userLabel="plate6.png">
@@ -129,7 +129,7 @@
                                         <rect key="frame" x="531" y="678" width="240" height="99"/>
                                         <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="80"/>
                                         <state key="normal" title="20">
-                                            <color key="titleColor" red="0.47935611010000001" green="0.2736448944" blue="0.065209873020000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <color key="titleColor" red="0.99944847820000005" green="0.31470149759999999" blue="0.057557262480000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         </state>
                                     </button>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="plate.png" translatesAutoresizingMaskIntoConstraints="NO" id="Ycu-oR-bQN" userLabel="plate5.png">
@@ -143,7 +143,7 @@
                                         <rect key="frame" x="919" y="636" width="240" height="99"/>
                                         <fontDescription key="fontDescription" name="MarkerFelt-Thin" family="Marker Felt" pointSize="80"/>
                                         <state key="normal" title="20">
-                                            <color key="titleColor" red="0.47935611010000001" green="0.2736448944" blue="0.065209873020000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <color key="titleColor" red="0.99944847820000005" green="0.31470149759999999" blue="0.057557262480000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         </state>
                                     </button>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Score :" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NE6-GN-FZR">
