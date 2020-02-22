@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9A0F117A2401286E00356033 /* plate@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A0F11792401286E00356033 /* plate@2x.png */; };
+		9A0F117C2401445B00356033 /* resultBtn@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A0F117B2401445A00356033 /* resultBtn@3x.png */; };
+		9A0F11802401833E00356033 /* result_music.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9A0F117F2401833D00356033 /* result_music.wav */; };
 		9AD551E324011FCF00660C4D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AD551E224011FCF00660C4D /* AppDelegate.swift */; };
 		9AD551E524011FCF00660C4D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AD551E424011FCF00660C4D /* SceneDelegate.swift */; };
 		9AD551E724011FCF00660C4D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AD551E624011FCF00660C4D /* ViewController.swift */; };
@@ -15,6 +18,7 @@
 		9AD551EF24011FD600660C4D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9AD551EE24011FD600660C4D /* Assets.xcassets */; };
 		9AD551F224011FD600660C4D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9AD551F024011FD600660C4D /* LaunchScreen.storyboard */; };
 		9AD551FD24011FD600660C4D /* IncredibleMeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AD551FC24011FD600660C4D /* IncredibleMeTests.swift */; };
+		9AD552082401235900660C4D /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9AD552072401235900660C4D /* background.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,6 +32,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9A0F11792401286E00356033 /* plate@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "plate@2x.png"; sourceTree = "<group>"; };
+		9A0F117B2401445A00356033 /* resultBtn@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "resultBtn@3x.png"; sourceTree = "<group>"; };
+		9A0F117F2401833D00356033 /* result_music.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = result_music.wav; sourceTree = "<group>"; };
 		9AD551DF24011FCF00660C4D /* IncredibleMe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IncredibleMe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AD551E224011FCF00660C4D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9AD551E424011FCF00660C4D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +47,7 @@
 		9AD551F824011FD600660C4D /* IncredibleMeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IncredibleMeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AD551FC24011FD600660C4D /* IncredibleMeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IncredibleMeTests.swift; sourceTree = "<group>"; };
 		9AD551FE24011FD600660C4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9AD552072401235900660C4D /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +97,10 @@
 				9AD551F024011FD600660C4D /* LaunchScreen.storyboard */,
 				9AD551F324011FD600660C4D /* Info.plist */,
 				9AD551EB24011FCF00660C4D /* IncredibleMe.xcdatamodeld */,
+				9AD552072401235900660C4D /* background.jpg */,
+				9A0F11792401286E00356033 /* plate@2x.png */,
+				9A0F117B2401445A00356033 /* resultBtn@3x.png */,
+				9A0F117F2401833D00356033 /* result_music.wav */,
 			);
 			path = IncredibleMe;
 			sourceTree = "<group>";
@@ -184,7 +196,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				9AD551F224011FD600660C4D /* LaunchScreen.storyboard in Resources */,
+				9AD552082401235900660C4D /* background.jpg in Resources */,
 				9AD551EF24011FD600660C4D /* Assets.xcassets in Resources */,
+				9A0F11802401833E00356033 /* result_music.wav in Resources */,
+				9A0F117C2401445B00356033 /* resultBtn@3x.png in Resources */,
+				9A0F117A2401286E00356033 /* plate@2x.png in Resources */,
 				9AD551EA24011FCF00660C4D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -369,6 +385,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3A67UQ2DKR;
 				INFOPLIST_FILE = IncredibleMe/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -376,7 +393,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.emon.IncredibleMe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -387,6 +404,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3A67UQ2DKR;
 				INFOPLIST_FILE = IncredibleMe/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -394,7 +412,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.emon.IncredibleMe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
